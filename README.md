@@ -21,9 +21,11 @@ This is a **Spring Boot** backend application designed to manage inventories in 
 ### 🛒 Order Management  
 - ✅ **Place Orders** – Save orders along with detailed order information.  
 - ✅ **Order Summary** – Returns a JSON response containing:  
+- - User details
   - Ordered items  
   - Total price  
-  - User details  
+  - Date and Time of the order
+    
 
 ---
 
