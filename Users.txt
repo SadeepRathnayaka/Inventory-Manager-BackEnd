@@ -1,0 +1,32 @@
+[
+  {
+    "userName": "john_doe123",
+    "email": "john.doe@example.com",
+    "password": "securePassword123!",
+    "displayName": "John Doe"
+  },
+  {
+    "userName": "jane_smith456",
+    "email": "jane.smith@example.com",
+    "password": "strongPassword456!",
+    "displayName": "Jane Smith"
+  },
+  {
+    "userName": "alice_wonder789",
+    "email": "alice.wonder@example.com",
+    "password": "alicePassword789!",
+    "displayName": "Alice Wonder"
+  },
+  {
+    "userName": "bob_martin101",
+    "email": "bob.martin@example.com",
+    "password": "bobPassword101!",
+    "displayName": "Bob Martin"
+  },
+  {
+    "userName": "charlie_brown202",
+    "email": "charlie.brown@example.com",
+    "password": "charliePassword202!",
+    "displayName": "Charlie Brown"
+  }
+]

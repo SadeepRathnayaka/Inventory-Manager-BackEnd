@@ -1,0 +1,3 @@
+Return type of the search results
+Pagination
+Indexing for better performance
